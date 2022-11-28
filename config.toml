@@ -1,3 +1,25 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://hello.shinonome517.net/'
+title = "Shinonome's Hello Page"
+author = "Shinonome517"
+theme = " PaperMod"
+copyright = "CopyRight © 2022 Shinonome517
+summarylenght = 100
+
+DefaultContentLanguage = "ja"
+HasCJKLanguage = true
+languageCode = "ja-jp"
+
+pafinate = 10
+
+[Params]
+description = "ShinonomeのHelloページ"
+dateformat = "2006/01/02"
+
+[taxonomies]
+tag = "tags"
+archive = "archives"
+
+
+[markup.goldmark.renderer]
+
+
