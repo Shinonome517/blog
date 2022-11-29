@@ -12,14 +12,9 @@ languageCode = "ja-jp"
 pafinate = 10
 
 [Params]
-description = "ShinonomeのHelloページ"
+description = "Shinonome517's hello page"
 dateformat = "2006/01/02"
 
 [taxonomies]
 tag = "tags"
 archive = "archives"
-
-
-[markup.goldmark.renderer]
-
-
