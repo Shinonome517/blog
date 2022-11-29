@@ -1,5 +1,5 @@
 baseURL = 'https://hello.shinonome517.net/'
-title = "Shinonome517's Hello Page"
+title = "Shinonome517's blog"
 author = "Shinonome517"
 theme = "PaperMod"
 copyright = "CopyRight © 2022 Shinonome517"
@@ -12,8 +12,22 @@ languageCode = "ja-jp"
 pafinate = 10
 
 [Params]
-description = "Shinonome517's hello page"
+description = "Shinonome517's blog"
 dateformat = "2006/01/02"
+homeInfoParams.Title = "Hi there..."
+homeInfoParams.Content =  "Can be Info, links, about..."
+
+[[Params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/Shinonome517Stu"
+
+[[Params.socialIcons]]
+name = "github"
+url = "https://github.com/Shinonome517"
+
+[[Params.socialIcons]]
+name = "zenn"
+url = "https://zenn.dev/shinonome517"
 
 [taxonomies]
 tag = "tags"
