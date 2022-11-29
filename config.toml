@@ -9,13 +9,13 @@ DefaultContentLanguage = "ja"
 HasCJKLanguage = true
 languageCode = "ja-jp"
 
-pafinate = 10
+pafinate = 3
 
 [Params]
 description = "Shinonome517's blog"
 dateformat = "2006/01/02"
-homeInfoParams.Title = "Hi there..."
-homeInfoParams.Content =  "Can be Info, links, about..."
+homeInfoParams.Title = "ようこそ！！"
+homeInfoParams.Content =  "Shinonome517の近況を報告するよ"
 
 [[Params.socialIcons]]
 name = "twitter"
