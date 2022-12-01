@@ -16,6 +16,15 @@ description = "Shinonome517's blog"
 dateformat = "2006/01/02"
 homeInfoParams.Title = "ようこそ！！"
 homeInfoParams.Content =  "Shinonome517の近況を報告するよ"
+ShowShareButtons = true
+ShowReadingTime = true
+ShowToc = true
+TocOpen = true
+ShowBreadCrumbs = true
+howCodeCopyButtons = true
+ShowPostNavLinks = true
+
+comments = false
 
 [[Params.socialIcons]]
 name = "twitter"
